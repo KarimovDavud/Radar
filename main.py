@@ -95,7 +95,7 @@ class App:
             self.text.insert(tk.END, "Protocol not found.")
 
     def open_payment_url(self):
-        webbrowser.open("https://www.million.az/services/governmentalpayments/DYP")
+        webbrowser.open("https://www.e-pul.az/epay/category/penalty")
 
 
 if __name__ == "__main__":
